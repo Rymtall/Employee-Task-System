@@ -119,3 +119,6 @@ Open **index.html** in your browser.
 No installation or server is required.
 
 ---
+screenshots 
+
+https://github.com/Rymtall/Employee-Task-System/blob/main/home.png
